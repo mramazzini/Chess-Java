@@ -2,7 +2,7 @@
 
 Fully working chess App written in Java
 
-![ehttps://piskel-imgstore-b.appspot.com/img/76160e3a-78ff-11ed-bd37-5d5d32f3a3b5.gif](Image of gam)
+![https://piskel-imgstore-b.appspot.com/img/76160e3a-78ff-11ed-bd37-5d5d32f3a3b5.gif](Image of game)
 
 ## Usage
 
